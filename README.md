@@ -1,4 +1,6 @@
 # Coding-Program Thesis Program
+![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(13).PNG)
+![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(14).PNG)
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(1).PNG)
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(2).PNG)
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(3).PNG)
@@ -11,6 +13,4 @@
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(10).PNG)
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(11).PNG)
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(12).PNG)
-![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(13).PNG)
-![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(14).PNG)
 Thank You!
