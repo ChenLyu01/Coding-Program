@@ -2,7 +2,7 @@
 
 
 ## [Download Coding-Program Thesis Program](https://github.com/ChenLyu01/Coding-Program/blob/master/setup.exe)
-## [Video](https://youtu.be/L2bWOjNz7V8)
+## [DEMO Video](https://youtu.be/L2bWOjNz7V8)
 
 
 ![image](https://github.com/ChenLyu01/Coding-Program/blob/master/Coding%20(13).PNG)
