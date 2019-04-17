@@ -14,7 +14,7 @@ Attribute VB_Exposed = False
 '**************************************************************************
 'Date: 2019/02/01
 'Describe:This is a function about map generation.
-'Author:  Chenlyu and James L. Dean
+'Author:  Chenlyu and Cuiwei
 'E-mail:  plarn@foxmail.com
 '**************************************************************************
 

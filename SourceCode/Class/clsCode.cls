@@ -14,7 +14,7 @@ Attribute VB_Exposed = False
 '**************************************************************************
 'Date: 2019/02/01
 'Describe:This is a function about map generation.
-'Author:  Chenlyu and James L. Dean
+'Author:  Chenlyu and Cuiwei
 'E-mail:  plarn@foxmail.com
 '**************************************************************************
 
@@ -28,9 +28,9 @@ Attribute VB_Exposed = False
 
 
 Option Explicit
-Private Lines() As New clsLine              '按行存放源代码的数组
-Private iline As Integer                    '存入数组时用的临时变量
-Private ce As New clsExpPlus                    '表达式处理模块
+Private Lines() As New clsLine              '
+Private iline As Integer                    '
+Private ce As New clsExpPlus                    '
 Private this_Code_Notes As String
 Private this_Code_Space As String
 Private this_Code_If As String
